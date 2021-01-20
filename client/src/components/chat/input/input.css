@@ -1,0 +1,15 @@
+.sendbutton{
+    border-radius: 5px;
+    border: 0px;
+    padding: 1rem; 
+    font-size: 1rem;
+    cursor: pointer;
+    margin: 1rem;
+    background-color: #64b5f6;
+    color: white;
+    font: bold;
+}
+
+.buttonClass.active{
+    background-color: red;
+    }
